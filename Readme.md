@@ -1,6 +1,6 @@
 ## Whiteboard Canvas
 
-Whiteboard with basic cores functions figma like. [link](https://aesthetic-mandazi-5447d1.netlify.app/)
+Whiteboard with basic cores functions figma like. [link](https://barkilm.github.io/whiteBoardCanvas)
 
 ### Prerequisite
 
