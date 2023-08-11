@@ -1,6 +1,14 @@
 ## Whiteboard Canvas
 
-Whiteboard with basic cores functions figma like. [link](https://barkilm.github.io/whiteBoardCanvas)
+Whiteboard with basic cores functions figma like. [link](https://barklim.github.io/whiteBoardCanvas/)
+
+```
+ctrl + mouse - zome
+scroll wheel - mouse wheel
+drag by mouse clicking
+```
+
+
 
 ### Prerequisite
 
